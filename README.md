@@ -1,2 +1,2 @@
 # myProjectnlweSports
-Projeto NLW eSports, de iniciativa da Rocketseat
+Projeto NLW eSports, de iniciativa da Rocketseat. 
