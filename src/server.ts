@@ -2,7 +2,7 @@ import express from "express";
 
 const app = express();
 
-app.get("/", (req, resp) => {
+app.get("/", (req: any, resp: any) => {
   console.log("ACESSANDO");
   return resp.json([
     { id: 1, name: "Anúncio1" },
